@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#48CFAE</color>
+    <color name="colorPrimaryDark">#12BC93</color>
+    <color name="colorAccent">#4cbbb9</color>
+    <color name="colorPrimaryLight">#86E1CB</color>
+    <color name="accentPink">#CF4868</color>
+    <color name="accentPurple">#CF48BA</color>
+    <color name="accentOrange">#CF7848</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkGrey">#A9A9A9</color>
+    <color name="black">#000000</color>
+    <color name="charcoal">#323232</color>
+
+    <color name="tabTextColor">#12BC93</color>
+    <color name="tabIndicatorColor">#12BC93</color>
+
+    <color name="gradient_start_color">#CF4868</color>
+    <color name="gradient_end_color">#CF7848</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <color name="background_default_layout">#FAFAFA</color>
+    <color name="gold">#FFC107</color>
+    <color name="pink">#FF4081</color>
+</resources>
